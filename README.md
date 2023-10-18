@@ -20,7 +20,7 @@ Flow research plays an important role in the field of engineering including airc
 |-|-|
 |[![Watch the video](Pictures/orange.png)](https://youtu.be/tT6J6Lz9z5E) | [![Watch the video](Pictures/double_green.png)](https://youtu.be/NL8bShEmRKE)|
 
-## Photos
+## Conference Photos
 
 |<img src="Pictures/309333324_8688085547872053_7832611745139199575_n.jpg">  |  <img src="Pictures/309613886_8688084467872161_1989341089619857029_n.jpg">| <img src="Pictures/310441511_8688084444538830_1191737818943326508_n.jpg">|
 |-|-|-|
